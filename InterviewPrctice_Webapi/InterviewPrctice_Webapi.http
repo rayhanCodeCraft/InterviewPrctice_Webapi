@@ -1,0 +1,6 @@
+@InterviewPrctice_Webapi_HostAddress = http://localhost:5255
+
+GET {{InterviewPrctice_Webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
